@@ -1,5 +1,5 @@
 # 🎬 YouTube Clone - Static Page
-http://localhost:63342/htmlcourse/youtubepage/youtube.html?_ijt=onv2jvk54cudi0d9hbpj2fp3o6&_ij_reload=RELOAD_ON_SAVE
+![YouTube Clone Preview](https://via.placeholder.com/800x400/1a1a2e/FFFFFF?text=YouTube+Clone+Preview)
 
 A beautifully designed, static clone of the YouTube video grid layout. This project showcases a responsive, modern UI similar to YouTube's homepage with video thumbnails, channel avatars, titles, and view statistics.
 
@@ -12,9 +12,6 @@ A beautifully designed, static clone of the YouTube video grid layout. This proj
 - 🎯 **YouTube-inspired** - Mimics the look and feel of YouTube's homepage
 - 🧩 **Modular Code** - Separated HTML and CSS for easy maintenance
 
-## 🚀 Live Demo
-
-[View Live Demo](#) *(Add your GitHub Pages URL here after deployment)*
 
 ## 🛠️ Technologies Used
 
